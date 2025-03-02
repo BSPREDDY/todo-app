@@ -10,4 +10,4 @@ it has the following features -
 
 - anyone can create a todo
 - anyone can see their existing todos
-- any can mark a todo as done
+- anyone can mark a todo as done
